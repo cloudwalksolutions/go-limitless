@@ -1,0 +1,48 @@
+
+server_test.go
+
+**/*.sqlite3
+**/source.sh
+**/var/
+**/.terraform*
+**/build/
+**/secrets/
+**/service-accounts/
+**/.DS_Store
+
+**/Chart.lock
+
+**/media/
+**/js/
+**/yarn-error.log
+**/react-devtools/
+
+# Python
+**/*.pyc
+**/__pycache__
+**/*.egg-info*
+**/dist/
+**/env/
+**/venv/
+**/venv3/
+**/.pytest_cache
+**/.idea/
+
+# JavaScript
+**/node_modules/
+
+
+# Virtual Machine
+**/.vagrant/
+
+# Text editors and IDEs
+**/*~
+**/*.swp
+**/.vscode
+**/.ropeproject/
+**/.vscode/
+
+# Google drive and dropbox
+**/Icon
+**/.dropbox*
+
